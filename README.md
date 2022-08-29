@@ -10,7 +10,7 @@ For further details, quantitative model evaluation and extensive documentation p
 PK-Sim Version 10.
 
 # License
-The model is distributed under the GPLv2 Lincense.
+The model is distributed under the GPLv2 License.
 
 # Reference
 [[1] Rüdesheim, S.; Selzer, D.; Mürdter, T.; Igel, S.; Kerb, R.; Schwab, M.; Lehr, T. Physiologically Based Pharmacokinetic Modeling to Describe the CYP2D6 Activity Score-Dependent Metabolism of Paroxetine, Atomoxetine and Risperidone. Pharmaceutics 2022, 14, 1734.](https://doi.org/10.3390/pharmaceutics14081734)
