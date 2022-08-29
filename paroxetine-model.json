@@ -105622,7 +105622,7 @@
             },
             {
               "Name": "End time",
-              "Value": 150.0,
+              "Value": 124.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -106123,7 +106123,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "paroxetine_09_03_2021 - Kopie\nMA05_PO_20_PAR_SD_NULL_61_\n2021-11-11 09:47"
+          "OriginText": "paroxetine_clean_V10\nMassaroti (2005) - paroxetine hydrochloride, 20 mg, po, n=28 (EM)\n2022-08-24 10:57"
         }
       ],
       "Interactions": [
